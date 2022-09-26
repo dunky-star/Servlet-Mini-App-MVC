@@ -11,7 +11,7 @@
 <body>
 	<div id="wrapper">
 		<div id="header">
-			<h2>Simpl-iLeann University</h2>
+			<h2>Simpli-Learn University</h2>
 		</div>
 	</div>
 	
